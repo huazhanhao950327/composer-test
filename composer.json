@@ -1,0 +1,16 @@
+{
+    "name": "huazhanhao950327/composer-test",
+    "description": "一个测试应用宝",
+    "autoload": {
+        "psr-4": {
+            "Huazhanhao950327\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hzh",
+            "email": "240767695@qq.com"
+        }
+    ],
+    "require": {}
+}
